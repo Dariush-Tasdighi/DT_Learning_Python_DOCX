@@ -53,10 +53,3 @@ Now! We Create / Modify / Delete / Run the Source Codes...
 ```bash
 deactivate
 ```
-
----
-
-### Create '.env' File (For Saving API Keys)
-
-- In the root of project, create a file, with the name of '.env', and write the key name and value:
-    - GOOGLE_API_KEY="..."
